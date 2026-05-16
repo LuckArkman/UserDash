@@ -1,0 +1,13 @@
+I:\UserDash\Repositorys\bin\Debug\net8.0\Repositorys.deps.json
+I:\UserDash\Repositorys\bin\Debug\net8.0\Repositorys.dll
+I:\UserDash\Repositorys\bin\Debug\net8.0\Repositorys.pdb
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.csproj.AssemblyReference.cache
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.GeneratedMSBuildEditorConfig.editorconfig
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.AssemblyInfoInputs.cache
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.AssemblyInfo.cs
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.csproj.CoreCompileInputs.cache
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.sourcelink.json
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.dll
+I:\UserDash\Repositorys\obj\Debug\net8.0\refint\Repositorys.dll
+I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.pdb
+I:\UserDash\Repositorys\obj\Debug\net8.0\ref\Repositorys.dll

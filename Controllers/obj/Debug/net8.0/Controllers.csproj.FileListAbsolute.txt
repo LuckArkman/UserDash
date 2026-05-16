@@ -1,0 +1,16 @@
+I:\UserDash\Controllers\bin\Debug\net8.0\Controllers.deps.json
+I:\UserDash\Controllers\bin\Debug\net8.0\Controllers.dll
+I:\UserDash\Controllers\bin\Debug\net8.0\Controllers.pdb
+I:\UserDash\Controllers\bin\Debug\net8.0\Interfaces.dll
+I:\UserDash\Controllers\bin\Debug\net8.0\Interfaces.pdb
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.csproj.AssemblyReference.cache
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfoInputs.cache
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfo.cs
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.csproj.CoreCompileInputs.cache
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.sourcelink.json
+I:\UserDash\Controllers\obj\Debug\net8.0\Controll.01F35609.Up2Date
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.dll
+I:\UserDash\Controllers\obj\Debug\net8.0\refint\Controllers.dll
+I:\UserDash\Controllers\obj\Debug\net8.0\Controllers.pdb
+I:\UserDash\Controllers\obj\Debug\net8.0\ref\Controllers.dll

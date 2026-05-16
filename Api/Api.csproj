@@ -23,4 +23,14 @@
       </Content>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Controllers\Controllers.csproj" />
+      <ProjectReference Include="..\Database\Database.csproj" />
+      <ProjectReference Include="..\Dtos\Dtos.csproj" />
+      <ProjectReference Include="..\FileService\FileService.csproj" />
+      <ProjectReference Include="..\OcrService\OcrService.csproj" />
+      <ProjectReference Include="..\Repositorys\Repositorys.csproj" />
+      <ProjectReference Include="..\UploadService\UploadService.csproj" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,13 @@
+I:\UserDash\Dtos\bin\Debug\net8.0\Dtos.deps.json
+I:\UserDash\Dtos\bin\Debug\net8.0\Dtos.dll
+I:\UserDash\Dtos\bin\Debug\net8.0\Dtos.pdb
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.csproj.AssemblyReference.cache
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.sourcelink.json
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.dll
+I:\UserDash\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+I:\UserDash\Dtos\obj\Debug\net8.0\Dtos.pdb
+I:\UserDash\Dtos\obj\Debug\net8.0\ref\Dtos.dll

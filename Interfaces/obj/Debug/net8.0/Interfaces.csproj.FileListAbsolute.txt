@@ -1,0 +1,12 @@
+I:\UserDash\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+I:\UserDash\Interfaces\bin\Debug\net8.0\Interfaces.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.dll
+I:\UserDash\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+I:\UserDash\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
