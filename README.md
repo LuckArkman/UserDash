@@ -48,7 +48,7 @@ A organização das pastas segue o padrão de separação de responsabilidades:
 *   **Configurações:** Gerenciadas via `appsettings.json` e perfis no `launchSettings.json`.
 *   **Funcionalidades:** Inclui suporte nativo a Swagger para testes de endpoints e integração com JWT.
 
-### ⚙️ Worker Services (`OcrService` & `UploadService`)
+### ⚙️ Worker Services (`OcrService` , `UploadService` & `FileService`)
 Serviços focados em processamento em background.
 *   **Execução:** Utilizam o `BackgroundService` do .NET para loops de processamento.
 *   **Segurança:** Configurados para usar `UserSecretsId`, permitindo o armazenamento seguro de credenciais localmente durante o desenvolvimento.
