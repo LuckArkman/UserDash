@@ -617,6 +617,7 @@
       },
       "Repositorys/1.0.0": {
         "dependencies": {
+          "Interfaces": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "MongoDB.Driver": "3.6.0",
           "Npgsql": "10.0.1",

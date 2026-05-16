@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{85E01AD0-9C34-49A6-9AC1-F217C1495349}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{3D12B12D-8F90-4163-8F97-78D31E79D64F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,5 +67,9 @@ Global
 		{85E01AD0-9C34-49A6-9AC1-F217C1495349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85E01AD0-9C34-49A6-9AC1-F217C1495349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85E01AD0-9C34-49A6-9AC1-F217C1495349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D12B12D-8F90-4163-8F97-78D31E79D64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D12B12D-8F90-4163-8F97-78D31E79D64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D12B12D-8F90-4163-8F97-78D31E79D64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D12B12D-8F90-4163-8F97-78D31E79D64F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

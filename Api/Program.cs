@@ -1,11 +1,17 @@
 using Database.Postgres;
+using Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Dependency Injection
+builder.Services.AddScoped<Interfaces.IOcrService, Api.Services.OcrService>();
+builder.Services.AddScoped<Interfaces.IDocumentRepository, Repositorys.DocumentRepository>();
 
 var app = builder.Build();
 

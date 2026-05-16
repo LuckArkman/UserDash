@@ -11,3 +11,6 @@ I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.dll
 I:\UserDash\Repositorys\obj\Debug\net8.0\refint\Repositorys.dll
 I:\UserDash\Repositorys\obj\Debug\net8.0\Repositorys.pdb
 I:\UserDash\Repositorys\obj\Debug\net8.0\ref\Repositorys.dll
+I:\UserDash\Repositorys\bin\Debug\net8.0\Interfaces.dll
+I:\UserDash\Repositorys\bin\Debug\net8.0\Interfaces.pdb
+I:\UserDash\Repositorys\obj\Debug\net8.0\Reposito.19D10BBC.Up2Date

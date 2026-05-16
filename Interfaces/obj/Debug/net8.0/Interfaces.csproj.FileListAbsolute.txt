@@ -10,3 +10,11 @@ I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.dll
 I:\UserDash\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
 I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.pdb
 I:\UserDash\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+I:\UserDash\Interfaces\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+I:\UserDash\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
