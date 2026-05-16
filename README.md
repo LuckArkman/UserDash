@@ -33,7 +33,8 @@ A organização das pastas segue o padrão de separação de responsabilidades:
 ├── Controllers/            # Camada de apresentação (Controllers/Handlers)
 ├── Dtos/                   # Contratos de entrada e saída (Data Transfer Objects)
 ├── Database/               # Infraestrutura de banco (Contextos e Migrações)
-└── Repositorys/            # Camada de acesso a dados (Repositórios)
+├── Repositorys/            # Camada de acesso a dados (Repositórios)
+└── FileService/            # Worker Service para gestão de arquivos.
 ```
 
 *Nota: Diretórios como `bin/` e `obj/` são gerados automaticamente durante o build e não devem ser versionados.*
