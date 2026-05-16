@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{7155EC28-FC8D-421D-BFF5-C02C45061941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{882E598E-B425-45EC-9B0A-E8AB1C643C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{1575E3DC-7C4D-4F53-8F30-09F56D11195E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorys", "Repositorys\Repositorys.csproj", "{75EF1A8B-7BE9-4E14-8FF2-594B16896B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{E6F5A73A-584A-4BDE-934A-4AAAE81C737D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadService", "UploadService\UploadService.csproj", "{A7E2DA72-8C81-46FE-85BC-74D5BF13687C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrService", "OcrService\OcrService.csproj", "{3945B697-2D17-4296-A27E-2FDA1FA6FE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7155EC28-FC8D-421D-BFF5-C02C45061941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7155EC28-FC8D-421D-BFF5-C02C45061941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7155EC28-FC8D-421D-BFF5-C02C45061941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7155EC28-FC8D-421D-BFF5-C02C45061941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882E598E-B425-45EC-9B0A-E8AB1C643C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882E598E-B425-45EC-9B0A-E8AB1C643C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882E598E-B425-45EC-9B0A-E8AB1C643C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882E598E-B425-45EC-9B0A-E8AB1C643C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1575E3DC-7C4D-4F53-8F30-09F56D11195E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1575E3DC-7C4D-4F53-8F30-09F56D11195E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1575E3DC-7C4D-4F53-8F30-09F56D11195E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1575E3DC-7C4D-4F53-8F30-09F56D11195E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EF1A8B-7BE9-4E14-8FF2-594B16896B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EF1A8B-7BE9-4E14-8FF2-594B16896B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EF1A8B-7BE9-4E14-8FF2-594B16896B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EF1A8B-7BE9-4E14-8FF2-594B16896B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F5A73A-584A-4BDE-934A-4AAAE81C737D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F5A73A-584A-4BDE-934A-4AAAE81C737D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F5A73A-584A-4BDE-934A-4AAAE81C737D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F5A73A-584A-4BDE-934A-4AAAE81C737D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E2DA72-8C81-46FE-85BC-74D5BF13687C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E2DA72-8C81-46FE-85BC-74D5BF13687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E2DA72-8C81-46FE-85BC-74D5BF13687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E2DA72-8C81-46FE-85BC-74D5BF13687C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
