@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadService", "UploadServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcrService", "OcrService\OcrService.csproj", "{3945B697-2D17-4296-A27E-2FDA1FA6FE71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileService", "FileService\FileService.csproj", "{C5D40989-7B4A-49BB-84B1-0B4EBBA3195E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3945B697-2D17-4296-A27E-2FDA1FA6FE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5D40989-7B4A-49BB-84B1-0B4EBBA3195E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D40989-7B4A-49BB-84B1-0B4EBBA3195E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D40989-7B4A-49BB-84B1-0B4EBBA3195E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D40989-7B4A-49BB-84B1-0B4EBBA3195E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
