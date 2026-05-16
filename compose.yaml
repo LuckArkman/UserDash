@@ -1,0 +1,24 @@
+﻿services:
+  api:
+    image: api
+    build:
+      context: .
+      dockerfile: Api/Dockerfile
+
+  fileservice:
+    image: fileservice
+    build:
+      context: .
+      dockerfile: FileService/Dockerfile
+
+  ocrservice:
+    image: ocrservice
+    build:
+      context: .
+      dockerfile: OcrService/Dockerfile
+
+  uploadservice:
+    image: uploadservice
+    build:
+      context: .
+      dockerfile: UploadService/Dockerfile
